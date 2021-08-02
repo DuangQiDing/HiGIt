@@ -14,5 +14,6 @@ public class HiGit {
         System.out.println("在线编辑1");
         System.out.println("主干添加6");
         System.out.println("克隆项目");
+        System.out.println("主干添加7");
     }
 }
