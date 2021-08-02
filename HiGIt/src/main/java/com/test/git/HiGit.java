@@ -10,5 +10,6 @@ public class HiGit {
         System.out.println("主干添加2");
         System.out.println("主干添加3");
         System.out.println("主干添加4");
+        System.out.println("主干添加5");
     }
 }
